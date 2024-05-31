@@ -13,7 +13,7 @@ module.exports = {
       .setColor('#2b71ec')
       .setAuthor({
         name: 'Im here to Help!',
-        iconURL: 'https://cdn.discordapp.com/attachments/1175487983915376662/1175667506791325706/communication.png?ex=656c10b0&is=65599bb0&hm=e378f1b355a2401bcab504b08a0766001d6b7c090c91ce0a7a7a87c868feb955&', 
+        iconURL: 'https://cdn.discordapp.com/attachments/1230822430973628496/1230822729695891497/7491-evil-wonderboy.png?ex=665af37e&is=6659a1fe&hm=bc1369a4f4c123555c454dafcf0cfe586515a47c3af0c9956812fa1837151112&', 
         url: 'https://discord.gg/FUEHs7RCqz'
     })
      
@@ -61,17 +61,17 @@ module.exports = {
 
     const button1 = new ButtonBuilder()
       .setLabel('YouTube')
-      .setURL('https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A')
+      .setURL('https://www.youtube.com/')
       .setStyle(ButtonStyle.Link);
 
     const button2 = new ButtonBuilder()
       .setLabel('Discord')
-      .setURL('https://discord.gg/xQF9f9yUEM')
+      .setURL('https://discord.gg/v2NJhUg2Jc')
       .setStyle(ButtonStyle.Link);
 
     const button3 = new ButtonBuilder()
-      .setLabel('Code')
-      .setURL('https://github.com/GlaceYT')
+      .setLabel('Instagram')
+      .setURL('https://www.instagram.com/jasper_skye_0/')
       .setStyle(ButtonStyle.Link);
       
     const row = new ActionRowBuilder()
