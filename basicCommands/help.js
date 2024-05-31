@@ -57,7 +57,7 @@ module.exports = {
         }
       )
       .setThumbnail(botUser.avatarURL({ dynamic: true, format: 'png', size: 1024 }))
-      .setImage(`https://cdn.discordapp.com/attachments/1113800537402527903/1236803979996958740/11.png?ex=6641e8b7&is=66409737&hm=96f69ba8bcde4ca44bf8713e22001e0bafad0335cfd1f57c439a34b4762f0e03&`);
+      .setImage(`https://cdn.discordapp.com/attachments/1230822430973628496/1230822729695891497/7491-evil-wonderboy.png?ex=665af37e&is=6659a1fe&hm=bc1369a4f4c123555c454dafcf0cfe586515a47c3af0c9956812fa1837151112&`);
 
     const button1 = new ButtonBuilder()
       .setLabel('YouTube')
