@@ -13,8 +13,8 @@ module.exports = {
       .setColor('#2b71ec')
       .setAuthor({
         name: 'Im here to Help!',
-        iconURL: 'https://cdn.discordapp.com/attachments/1230822430973628496/1230822729695891497/7491-evil-wonderboy.png?ex=665af37e&is=6659a1fe&hm=bc1369a4f4c123555c454dafcf0cfe586515a47c3af0c9956812fa1837151112&', 
-        url: 'https://discord.gg/FUEHs7RCqz'
+        iconURL: 'https://media.discordapp.net/attachments/1175487983915376662/1175667506791325706/communication.png?ex=665ab030&is=66595eb0&hm=a533ed301ec73949e8060e2c0e54078f2b99031d7dcce4277b14665c4f1737d9&', 
+        url: 'https://discord.gg/v2NJhUg2Jc'
     })
      
       .setDescription(`__**STATS :**__\n\n> **📊 Bot in servers:** ${serverCount}\n> **🟢 Bot Ping:** ${botPing}ms\n> **👑 Made By [GlaceYT](https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A)**\n\n__**COMMANDS :**__ `)
