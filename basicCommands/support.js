@@ -4,7 +4,7 @@ module.exports = {
     name: 'support',
     description: 'support server of this Bot',
     execute(message, args) {
-        const supportServerLink = "https://discord.gg/v2NJhUg2Jc";
+        const supportServerLink = "https://discadia.com/chill-chronicles";
       const githubLink = " https://github.com/Madara-2";
       const replitLink = " https://replit.com/@abdurrahmanjona";
       const instagramLink = "https://www.instagram.com/jasper_skye_0/";
